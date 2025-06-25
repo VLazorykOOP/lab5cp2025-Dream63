@@ -1,0 +1,10 @@
+C:\Users\Адмін\source\repos\PracticeLab5\PracticeLab5\obj\Debug\PracticeLab5.csproj.AssemblyReference.cache
+C:\Users\Адмін\source\repos\PracticeLab5\PracticeLab5\obj\Debug\PracticeLab5.Properties.Resources.resources
+C:\Users\Адмін\source\repos\PracticeLab5\PracticeLab5\obj\Debug\PracticeLab5.csproj.GenerateResource.cache
+C:\Users\Адмін\source\repos\PracticeLab5\PracticeLab5\obj\Debug\PracticeLab5.csproj.CoreCompileInputs.cache
+C:\Users\Адмін\source\repos\PracticeLab5\PracticeLab5\bin\Debug\PracticeLab5.exe.config
+C:\Users\Адмін\source\repos\PracticeLab5\PracticeLab5\bin\Debug\PracticeLab5.exe
+C:\Users\Адмін\source\repos\PracticeLab5\PracticeLab5\bin\Debug\PracticeLab5.pdb
+C:\Users\Адмін\source\repos\PracticeLab5\PracticeLab5\obj\Debug\PracticeLab5.exe
+C:\Users\Адмін\source\repos\PracticeLab5\PracticeLab5\obj\Debug\PracticeLab5.pdb
+C:\Users\Адмін\source\repos\PracticeLab5\PracticeLab5\obj\Debug\PracticeLab5.Form1.resources
